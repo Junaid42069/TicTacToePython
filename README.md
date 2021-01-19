@@ -3,6 +3,3 @@ Python game
 Just tried a tictactoe game code and runs smoothly
 
 nigga noigga nigga
-
-
-lkjg;zlkdm po jg'gs

@@ -13,7 +13,7 @@
         PORTB=0XFF;
         __delay_ms(500);
         PORTB=0X00;
-        __delay_ms(1000);
+        __delay_ms(500);
     }
     return;
 }
